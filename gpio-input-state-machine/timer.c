@@ -1,6 +1,6 @@
 
 #include "timer.h"
-#include "driverlib.h"
+#include <msp430.h>
 
 
 #define ACLK_FREQ_HZ 32768UL
