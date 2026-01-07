@@ -4,13 +4,8 @@ Bare-metal firmware for the MSP430F5529 LaunchPad implemented with direct regist
 
 ---
 
-## Demo
 
-## Demo
-
-Place images in `assets/` and reference them below.
-
-## Demo
+## Demos
 
 Place media in `assets/` and reference them below.
 
